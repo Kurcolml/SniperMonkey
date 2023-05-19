@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Collisionable">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Collisionable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAQACAQAAAAAAAQAAAMQAAAAACAAAAAABAAAAAAIAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sniper">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAUACAgAgoAAEAQARQAAABAQABAAEAAABAAgAAAABEQ=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Enemy::ESTADOS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgQACpAAAAAABAQAIAAACAAAAAAAAAAQAAAEAAEwAAI=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAQIDAAAAEAAIBAAAAACAIAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManager">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="LevelManager::ESTADOS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAiDAgBgwoBQIEAAAAAAgwKAECQMoMAQGIABAgIAg=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUp" Collapsed="true">
+    <Position X="14" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAABAIAAAAQAAAAACAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
